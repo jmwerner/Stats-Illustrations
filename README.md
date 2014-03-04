@@ -2,6 +2,9 @@ Stats-Illustrations
 ===================
 
 Scripts used in statistics classes for visualizations/illustrations
+----
+
+Scripts and their basic functions
 
 1. Confidence intervals 
     * Plots n level alpha confidence intervals from repeated sampling 
