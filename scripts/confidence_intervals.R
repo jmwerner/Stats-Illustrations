@@ -51,7 +51,7 @@ intervals2 = function(alpha){
 	lapply(c(16,25,36,75), FUN = function(x,alph){
 		sample = rnorm(x)
 
-		plot(sample, rep(0,length(sample)), xlim = c(-2,2), pch = 4, col = "blue", ylab = "", main = paste("Sample size: ", x, "     Alpha:", alph))
+		plot(sample, rep(0,length(sample)), xlim = c(-2,2), pch = 4, col = "blue", ylab = "", main = paste("Sample size: ", x, "     Alpha:", alph), yaxt = 'n')
 		
 		mu = mean(sample)
 		k = qnorm(1-alpha/2)*sd(sample)/sqrt(length(sample))
