@@ -15,4 +15,4 @@ Scripts and their basic functions
 3. Birthday Problem 
     * Plots a graph of probabilities and the specific probability for a given N in the Birthday Problem (probability of two people in a group of N people having the same birthday)
 4. *t*-Convergence
-    * Plots a *t*-distribution converging to a normal distribution. Incremented by the user pressing 'enter' 
+    * Plots a *t*-distribution converging to a normal distribution. Degrees of freedom (up to 30) are incremented by the user pressing 'enter' 
