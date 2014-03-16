@@ -14,5 +14,5 @@ Scripts and their basic functions
     * Plots the standard Mean Squared Error variance/bias "targets" illustration
 3. Birthday Problem 
     * Plots a graph of probabilities and the specific probability for a given N in the Birthday Problem (probability of two people in a group of N people having the same birthday)
-4. *t*-Convergence
+4. Convergence of the *t*-Distribution to Normal
     * Plots a *t*-distribution converging to a normal distribution. Degrees of freedom (up to 30) are incremented by the user pressing ``` enter ``` 
