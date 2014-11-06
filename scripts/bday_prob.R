@@ -5,7 +5,7 @@
 # probability for the input N
 
 ######
-N = 30
+N = 40
 ######
 
 

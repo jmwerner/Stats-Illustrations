@@ -16,3 +16,5 @@ Scripts and their basic functions
     * Plots a graph of probabilities and the specific probability for a given N in the Birthday Problem (probability of two people in a group of N people having the same birthday)
 4. Convergence of the *t*-Distribution to Normal
     * Plots a *t*-distribution converging to a normal distribution. Degrees of freedom (up to 30) are incremented by the user pressing ``` enter ``` 
+5. Central Limit Theorem 
+	* Shows the mean values of repeated random sampling from a skewed distribution $\chi^2$ distribution converging graphically to a somewhat symmetric distribution ala CLT. 
