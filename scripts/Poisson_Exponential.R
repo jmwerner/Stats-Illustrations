@@ -1,6 +1,6 @@
 # Author: Jeremy Werner
 
-# This script will iteratively sample from an exponential distribution and plot the times of events
+# This script will repeatedly sample from an exponential distribution and plot the times of events
 # sequentially on "number_of_trials" number of timelines. These "number_of_trials" number of timelines 
 # will then have their occurrences added up (as printed on the right of the graph), hence creating observations from a 
 # poisson distribution while actually being able to picture the event times (instead of just the number, like we usually do). 
