@@ -1,7 +1,7 @@
 Stats-Illustrations
 ===================
 
-Scripts used in statistics classes for visualizations/illustrations
+Scripts used in teaching statistics classes for visualizations/illustrations
 
 ----
 
