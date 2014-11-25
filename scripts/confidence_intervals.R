@@ -42,6 +42,7 @@ intervals1 = function(alpha, n, m){
 
 	legend("bottomleft", legend = c(expression(paste(mu," Captured")), expression(paste(mu," Not Captured"))), fill = c(3,2))
 
+	return(mean)
 }# intervals1
 
 
@@ -69,9 +70,12 @@ m_in <- 100
 alpha_in <- .05
 n_in <- 20
 
-intervals1(alpha_in, n_in, m_in)
+# Run the first intervals function and returns the means (to plot and show the distribution if you desire)
+means = intervals1(alpha_in, n_in, m_in)
 
-###############
+############################
+# Second interval function #
+############################
 alpha_in = .05
 
 intervals2(alpha_in)
