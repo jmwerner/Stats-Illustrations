@@ -34,7 +34,7 @@ for(i in 1:iterations){
 		}
 	
 		abline(v=m, col = "red", lwd = 2)
-		hist(means[1:i], xlab = "Means", xlim = c(0,3+3*chi_df))
+		hist(means[1:i], xlab = "Means", main = "Histogram of Means", xlim = c(0,3+3*chi_df))
 	}
 } 
 

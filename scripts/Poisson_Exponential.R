@@ -10,7 +10,7 @@
 
 # User inputs
 ##
-lambda_input = 20
+lambda_input = 5
 number_of_trials = 25
 top_of_time_period_input = 15 
 ##
